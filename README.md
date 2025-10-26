@@ -17,7 +17,7 @@ check out my [LinkedIn](https://linkedin.com/in/jannatinnaimxiii).
 
 [![WakaTime Badge](https://wakatime.com/badge/user/c4bdac5b-f843-49e4-9969-b5ec54c6405a.svg?style=for-the-badge)](https://wakatime.com/ridwanahmedxix)
 
-[![WakaTime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=ridwanahmedxix&hide_title=true&theme=transparent&layout=compact&langs_count=8&range=all_time)](https://wakatime.com/JannatinNaimXIII)
+[![WakaTime Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=ridwanahmedxix&hide_title=true&theme=transparent&layout=compact&langs_count=8&range=all_time)](https://wakatime.com/ridwanahmedxix)
 
 ## Tools & Frameworks
 
