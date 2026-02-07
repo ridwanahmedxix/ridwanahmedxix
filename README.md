@@ -1,6 +1,6 @@
 <h1 align="center">I'm Ridwan Ahmed </h1>
-<h3 align="center">Bringing ideas to life through clean and modern interfaces.
-
+<h3 align="center">
+  I learn every day. I give my best effort, solve my own problems, seek help when needed, adapt with everyone, and grow not only as a developer but also as a better human being.
 </h3>
 
 
