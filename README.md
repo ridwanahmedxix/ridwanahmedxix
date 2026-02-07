@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Ridwan</h1>
+<h1 align="center">I'm Ridwan Ahmed </h1>
 <h3 align="center">Bringing ideas to life through clean and modern interfaces.
 
 </h3>
