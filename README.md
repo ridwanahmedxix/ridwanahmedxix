@@ -1,6 +1,6 @@
 <h1 align="center"> Hello , I'm Ridwan Ahmed </h1>
 <h3 align="center">
-  I learn every day. I give my best effort, solve my own problems, seek help when needed, adapt with everyone, and grow not only as a developer but also as a better human being.
+ I write code, solve problems, learn from mistakes, and keep moving forward. Every challenge is another opportunity to become a better developer.
 </h3>
 
 
