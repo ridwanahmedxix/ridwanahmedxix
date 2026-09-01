@@ -1,6 +1,6 @@
 <h1 align="center"> Hello , I'm Ridwan Ahmed </h1>
 <h3 align="center">
- I write code, solve problems, learn from mistakes, and keep moving forward. Every challenge is another opportunity to become a better developer.
+ .......................................................................
 </h3>
 
 
