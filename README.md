@@ -1,4 +1,4 @@
-<h1 align="center"> Hello , I'm Ridwan Ahmed </h1>
+<h1 align="center"> Hey, what’s up? I'm Ridwan.  </h1>
 <h3 align="center">
  .......................................................................
 </h3>
